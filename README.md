@@ -1,6 +1,6 @@
 # LAMP_STACK
 A website where users can interact with a database. The information was scraped from wikipedia.
-#################################################################################################
+###############################################################################################
 CREATED BY: Jack Summers, Ajay Hariharan, and Jillian Walsh
 
 The application is a python file that utilizes the flask module to create a website.
